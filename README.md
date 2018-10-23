@@ -1,6 +1,6 @@
 # DocLister + Tags
 
-After install add mmrule for tags field:
+After install create `tags` parameter and add mmrule:
 ```php
 mm_widget_tags('tags', ',');
 ```
